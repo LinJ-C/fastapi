@@ -1,0 +1,11 @@
+1.基于starlette (负责web部分 asyncio)和 Pydantic（负责数据部分--类型提示）
+2.Tortoise 数据库操作 ORM 
+3.aerich  迁移工具
+4.ORC跨域
+
+代码原始文档：
+http://blog.yuan316.com/course/1/section/1
+哔哩哔哩视频教程：
+https://www.bilibili.com/video/BV1Ya4y1D7et/
+
+鸣谢：感谢B站up主《苑昊老师》 提供的fastapi 教程，收益颇多。4.ORC跨域
